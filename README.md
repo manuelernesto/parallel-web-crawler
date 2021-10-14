@@ -1,4 +1,4 @@
-# Project: Parallel Web Crawler
+# Parallel Web Crawler
 
 ## Getting Started
 
